@@ -61,7 +61,7 @@ button:hover {
   background-color: #fd5e25;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   .quiz-container {
     width: 300px;
   }
