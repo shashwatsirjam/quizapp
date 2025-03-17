@@ -1,0 +1,26 @@
+Subject: Request for Rundeck Project Creation & Alternative Approach Inquiry
+
+Dear @Jiunn Jye, Jason Teoh,
+
+I hope you’re doing well.
+
+I am reaching out to request the creation of a new project in Rundeck. Previously, I had raised a service request following the steps outlined in the User Guide for ServiceNow REQUEST - Automated Actions in Rundeck - Automation Tools - Confluence, but the request was closed due to the absence of a project name in Rundeck.
+[CHG0695506 Change Request | SC]
+
+Additionally, we do not currently have the login credentials required to access Rundeck. To facilitate our work, we would appreciate guidance on obtaining access.
+
+For context, we have deployed a Java application on a Windows server and now need to create start and stop jobs for it. Our target server is Windows, so this request will also be applicable to a Windows environment.
+
+Could you please confirm if there are any roadblocks in the following steps?
+	1.	Obtaining login credentials for Rundeck
+	2.	Creating a new project
+	3.	Setting up a job for start/stop actions
+
+Furthermore, I came across another possible approach—BYOS (Bring Your Own System). Could you advise if this method is feasible in our case, or if there are any limitations we should be aware of?
+
+Your prompt assistance would be greatly appreciated. Please let me know if you require any further details from our side to proceed with this request.
+
+Thank you for your support.
+
+Best regards,
+Shashwat
